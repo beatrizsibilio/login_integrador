@@ -1,0 +1,39 @@
+/**/
+
+body{
+  background-image: url('../imagens/fundo.jpg');
+}
+
+#cabecalho{
+  background-color: #32A2B8;
+  color: white;
+  border-bottom: solid white 1px;
+  padding-top: 10px;
+  padding-botton: 10px;
+}
+
+#logotipo{
+  text-align: center;
+}
+
+#logo{
+  text-align: center;
+  width: 300px;
+  height: 300px;
+}
+
+label{
+  margin-top: 20px;
+}
+
+#entrar{
+  margin-top: 30px;
+}
+
+#esqueceuSenha{
+  color: #32A2B8;
+}
+
+#novaConta{
+  margin-top: 100px;
+}
